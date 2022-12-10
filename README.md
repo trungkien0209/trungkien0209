@@ -20,7 +20,7 @@
 <br>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://allimages.sgp1.digitaloceanspaces.com/tipeduvn/2022/01/1643180543_243_Tai-hinh-dong-de-thuong-cute-va-ngo-nghinh-dang.gif" width="200"/>
 </div>
 
 # 💻 Tech Stack:
