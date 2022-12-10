@@ -20,7 +20,7 @@
 <br>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 
 # 💻 Tech Stack:
@@ -37,7 +37,13 @@
   <a href="#" title="trungkien0209">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungkien0209&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+  
+  <hr></hr>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 </div>
+
 
 
 ## 🏆 GitHub Trophies
