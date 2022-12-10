@@ -1,6 +1,22 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome!</h2>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ken.phan.2k1) 
+<br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://facebook.com/ken.phan.2k1" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ken.phan.2k1-facebook" />
+  </a>
+  <a href="https://instagram.com/trungkien.0209" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungkien.0209-instagram" />
+  </a>
+  <a href="mailto:trungkienhcb@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungkienhcb-email" />
+  </a>
+</div>
+<br>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
