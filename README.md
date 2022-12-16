@@ -3,7 +3,7 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome!</h2>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center"><img src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc.gif" width="50" />Where to find me<img src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc.gif" width="50" /></h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
