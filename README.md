@@ -1,4 +1,8 @@
-[![MasterHead](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)](https://rishavchanda.io)
+<div align=center>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+</div>
+
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome!</h2>
 
